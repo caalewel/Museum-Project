@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 46985dcaa82f72e4a9aed532af973467
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 372330
+  packageName: Spline Wall Generator Free
+  packageVersion: 1.0.0
+  assetPath: Assets/SplineWallGeneratorFree/Material/Ground.mat
+  uploadId: 916520
